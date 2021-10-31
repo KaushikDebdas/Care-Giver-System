@@ -21,5 +21,4 @@ a complete structure of our project.
 ## JOB POST
 ![post](https://user-images.githubusercontent.com/67013658/139568561-a5cfcab5-c327-4c94-b9ce-ab1f1c35211d.png)
 
-ABOUT
-This web-based project will provide caregiving services to ensure a better, easier, and reliable caregiving system in our country.
+
